@@ -16,7 +16,7 @@ O sistema implementa as seguintes funções:
 
 O sistema bancário está hospedado no Google Colab. Para rodá-lo, siga os passos abaixo:
 
-1. Clique no link a seguir para acessar o notebook no Google Colab: **[Sistema Bancário - Google Colab](link_do_notebook)**.
+1. Clique no link a seguir para acessar o notebook no Google Colab: **[Sistema Bancário - Google Colab](https://colab.research.google.com/github/julianachavespalm/sistema-bancario-python/blob/main/Sistema_Bancario.ipynb)**.
 2. No Google Colab, clique no botão **"Conectar"** no canto superior direito para inicializar o ambiente.
 3. Após a conexão, clique no botão **"Executar Tudo"** para rodar o sistema interativo.
 
